@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "845132224759",
+    "firebase_url": "https://fcmsample-88842.firebaseio.com",
+    "project_id": "fcmsample-88842",
+    "storage_bucket": "fcmsample-88842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845132224759:android:ceab5c3c6a813a33",
+        "android_client_info": {
+          "package_name": "com.example.next.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845132224759-dl9qb6uiklqv745qq9tt51rk3lt4ug6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRh8S0neAdes3sQ78YsZq_FGmgucH4PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845132224759-dl9qb6uiklqv745qq9tt51rk3lt4ug6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845132224759:android:9b54f4733645eb07",
+        "android_client_info": {
+          "package_name": "com.example.next.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845132224759-dl9qb6uiklqv745qq9tt51rk3lt4ug6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRh8S0neAdes3sQ78YsZq_FGmgucH4PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845132224759-dl9qb6uiklqv745qq9tt51rk3lt4ug6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845132224759:android:6d5e80587849acecb3dbf2",
+        "android_client_info": {
+          "package_name": "next.com.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845132224759-dl9qb6uiklqv745qq9tt51rk3lt4ug6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRh8S0neAdes3sQ78YsZq_FGmgucH4PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845132224759-dl9qb6uiklqv745qq9tt51rk3lt4ug6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845132224759:android:9ad9c1d33c29e5c0b3dbf2",
+        "android_client_info": {
+          "package_name": "next.com.sampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845132224759-109f83q90tu80prkcvsqpa59u1bplf37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "next.com.sampleapp",
+            "certificate_hash": "0ebfb71780bfa4b32b02a0abe958b0fadd000574"
+          }
+        },
+        {
+          "client_id": "845132224759-dl9qb6uiklqv745qq9tt51rk3lt4ug6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRh8S0neAdes3sQ78YsZq_FGmgucH4PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845132224759-dl9qb6uiklqv745qq9tt51rk3lt4ug6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
